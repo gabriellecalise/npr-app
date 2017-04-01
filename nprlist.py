@@ -1,0 +1,21 @@
+#put the python dict in a variable so you can import it
+PEOPLE = [
+{"id":849842,"Name":"Guy Raz","Program":"How I Built This, TED Radio Hour","Birthplace":"Los Angeles, CA"},
+{"id":148309,"Name":"Audie Cornish","Program":"All Things Considered","Birthplace":"Boston, MA"},
+{"id":427336,"Name":"Ari Shapiro","Program":"All Things Considered","Birthplace":"Fargo, ND"},
+{"id":102447,"Name":"Diane Rehm","Program":"The Diane Rehm Show","Birthplace":"Washington, D.C."},
+{"id":284830,"Name":"Nina Totenberg","Program":"All Things Considered, Morning Edition, Weekend Edition","Birthplace":"New York, NY"},
+{"id":857025,"Name":"Renae Montagne","Program":"Morning Edition","Birthplace":"Oceanside, CA"},
+{"id":532690,"Name":"Ira Flatow","Program":"Science Friday","Birthplace":"New York, NY"},
+{"id":567845,"Name":"Peter Sagal","Program":"Wait Wait...Don't tell me!","Birthplace":"Berkeley Heights, NJ"},
+{"id":636630,"Name":"Ira Glass","Program":"This American Life","Birthplace":"Baltimore, MD"},
+{"id":618460,"Name":"Terry Gross","Program":"Fresh Air","Birthplace":"Brooklyn, NY"},
+{"id":544313,"Name":"Linda Wertheimer","Program":"Senior national correspondent for multiple programs","Birthplace":"Carlsbad, NM"},
+{"id":352492,"Name":"Carl Kasell","Program":"Wait Wait...Don't tell me!","Birthplace":"Goldsboro, NC"},
+{"id":352592,"Name":"Corey Flintoff","Program":"international correspondent","Birthplace":"Fairbanks, AK"},
+{"id":22016,"Name":"Steve Inskeep\n","Program":"Morning Edition","Birthplace":"Carmel, IN"},
+{"id":571046,"Name":"Scott Simon","Program":"Weekend Edition","Birthplace":"Chicago, IL"},
+{"id":210117,"Name":"Lakshmi Singh\n","Program":"Newscast Unit","Birthplace":"Syracuse, NY"},
+{"id":176104,"Name":"Susan Stamberg\n","Program":"Special Correspondent","Birthplace":"Newark, NJ"},
+{"id":197288,"Name":"Hanna Rosin\n","Program":"Invisibilia","Birthplace":"Israel"},
+{"id":682334,"Name":"Alix Spiegel","Program":"Invisibilia","Birthplace":"Baltimore, MD"}];

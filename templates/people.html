@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name=viewport content="width=device-width, initial-scale=1">
+    <title> Detail page for {{ name }} </title>
+    <link href="https://fonts.googleapis.com/css?family=Droid+Serif|Source+Sans+Pro" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+</head>
+
+<body>
+<div id="wrapper">
+
+<!-- title, author and year come from winners.py -->
+
+<h1>{{ name }}</h1>
+
+<p>This person is known for being on this program: {{ program }}</p>
+
+<p>Birthplace: {{ birthplace }}</p>
+
+
+
+<p><a href="{{ url_for('index') }}">Go back to the list of people</a></p>
+
+
+</div> <!-- close wrapper -->
+
+</body>
+</html>
